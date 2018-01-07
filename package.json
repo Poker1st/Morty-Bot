@@ -1,0 +1,20 @@
+{
+  "name": "Supah-Bot",
+  "version": "1.0.0",
+  "description": "Cool playback bot with other awesome features.",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasmus Kockum",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "ffmpeg": "0.0.4",
+    "node-opus": "^0.2.4",
+    "request": "^2.79.0",
+    "yamljs": "^0.2.8",
+    "youtube-node": "^1.3.0",
+    "ytdl-core": "^0.7.20"
+  }
+}
